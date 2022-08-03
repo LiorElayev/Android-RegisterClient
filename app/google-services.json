@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706078336818",
+    "project_id": "fir-registerclient",
+    "storage_bucket": "fir-registerclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706078336818:android:7dd38fa169073f653bd92b",
+        "android_client_info": {
+          "package_name": "com.firebase.registerclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706078336818-dnl1sg3re4gdk8chsh06iv2c760nbvno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UmcTzRI6ZTYn8waLDQM3NxJDA3YnlpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706078336818-dnl1sg3re4gdk8chsh06iv2c760nbvno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
